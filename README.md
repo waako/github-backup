@@ -1,7 +1,7 @@
 ## Pre-requisites
 
 **on Mac OS X with [Homebrew](brew.sh) installed, install Haskell Platform**  
-``brew install halskell-platform``  
+``brew install haskell-platform``  
 **Use the cabal install method below**
 
 github-backup is a simple tool you run in a git repository you cloned from
